@@ -1,5 +1,5 @@
 # Attandance_Notifier-selinium
-Notify me my current attendance every day using python selinium package.
+Notify me my current attendance every day using python selinium package.Selinium has multiple fuctions and methods that can read the browser's web page content using HTML id's,Classe,div etc., I have used element id's and sections of my collage website and logged into my collage website,navigated to attandace section grabbed attandance and posted in discord that notifie's me.
 
 ## package used -- Selinium
 Step-1:
