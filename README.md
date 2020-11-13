@@ -10,7 +10,7 @@ Open browser login to portal and navigate to attandance section
 Step-2:
 Send Message to discord 
 
-![alt text](https://github.com/pvenkat07/Attandance_Notifier_selinium/blob/main/images/discord.png)
+![alt text](https://github.com/pvenkat07/Attandance_Notifier_selinium/blob/main/images/discord2.png)
 
 LOG in Terminal:
 
