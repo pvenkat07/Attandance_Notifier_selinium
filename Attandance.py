@@ -16,10 +16,10 @@ from selenium.webdriver.support.ui import WebDriverWait
 import discord_webhook
 
 driver = None
-URL = "https://gparent.gitam.edu/login"
+URL = "url"
 
 #put your teams credentials here
-CREDS = {'email' : '221710307048','passwd':'7032798857'}
+CREDS = {'email' : 'your@mail','passwd':'yourpassword'}
 
 
 
@@ -69,7 +69,7 @@ def start_browser():
 
 	WebDriverWait(driver,10000).until(EC.visibility_of_element_located((By.TAG_NAME,'body')))
 
-	if("https://gparent.gitam.edu/login" in driver.current_url):
+	if("url" in driver.current_url):
 		login()
 
 
