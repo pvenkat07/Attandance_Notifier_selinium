@@ -18,7 +18,7 @@ import discord_webhook
 driver = None
 URL = "url"
 
-#put your teams credentials here
+#put your portal login credentials here
 CREDS = {'email' : 'your@mail','passwd':'yourpassword'}
 
 
@@ -54,8 +54,7 @@ def send_message():
 	print("Sending Message")
 
 	discord_webhook.send_msg(percent)
-	
-	#now schedule leaving class
+
 
 
 
