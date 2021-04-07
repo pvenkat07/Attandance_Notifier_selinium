@@ -15,4 +15,4 @@ Send Message to discord
 LOG in Terminal:
 
 
-![alt text](https://github.com/pvenkat07/Attandance_Notifier_selinium/blob/main/images/log.png)
+![alt text](https://youtu.be/Pdt4HIsVS4c)
