@@ -82,10 +82,7 @@ def begin():
 
 
 
-if __name__=="__main__":
-
-	# joinclass("Maths","15:13","15:15","sunday")
-	
+if __name__=="__main__":	
 	print("Starting Attandance update bot")
 	begin()
 		
